@@ -10,3 +10,6 @@ for running the prototype in your browser , go to this link: https://www.figma.c
 For knowing more about this app see the "PRD-FMR" file
 
 Thank You
+
+
+![w6](https://github.com/user-attachments/assets/9e6bb8b3-15ca-46ee-a2b3-9a2f7392c6d3)
